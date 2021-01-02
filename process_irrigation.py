@@ -204,8 +204,5 @@ humidity_dataframe: table
     plt.savefig('August.png')
 
 
-# In[2]:
 
-
-pwd
 
